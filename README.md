@@ -2,7 +2,7 @@
 ## 1. Introduction
 
 ### 1.1 Overview
-The Task Manager is a simple Java application that allows users to manage their tasks. It provides a command-line interface (CLI) and a graphical user interface (GUI) for adding, viewing, marking tasks as completed, and deleting tasks.
+The Task Manager is a simple Java application that allows users to manage their tasks. It provides a graphical user interface (GUI) for adding, viewing, marking tasks as completed, and deleting tasks.
 
 ### 1.2 Purpose
 The purpose of the Task Manager is to help users organize and keep track of their tasks effectively. Users can easily add new tasks, mark them as completed, and remove completed or unnecessary tasks.
